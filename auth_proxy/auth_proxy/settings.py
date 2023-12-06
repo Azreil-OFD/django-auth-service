@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+# @Author: Azreil-OFD
+# @Date:   2023-12-06 14:21:50
+# @Last Modified by:   Azreil-OFD
+# @Last Modified time: 2023-12-06 14:28:54
 from datetime import timedelta
 import os
 
